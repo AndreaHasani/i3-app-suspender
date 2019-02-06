@@ -1,10 +1,10 @@
-# Simple i3 implementation of kill -STOP $id and kill -CONT $id
+## Simple i3 implementation of kill -STOP $id and kill -CONT $id
 
 
 This is a simple python scripts to save battery on laptop by preventing inactive apps from getting resources.
 
 
-## Requirements
+### Requirements
 
 * Python
 * i3
